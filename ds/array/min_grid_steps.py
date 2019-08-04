@@ -33,6 +33,8 @@ Output : 4
     1. Looping over input is required(step 1-2) but while loop is not.
     2. Distance can be calculated using formula: counter += max(abs(cur_x - dst_x), abs(cur_y, dst_y))
     3. cur_x cur_y = dst_x, dst_y
+
+    Time: O(n), Space: O(1)
 """
 
 
