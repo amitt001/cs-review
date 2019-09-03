@@ -1,4 +1,5 @@
-"""DFS with check for cycle and visisted node using coloring
+"""DFS with check for cycle and visisted node using coloring.
+Also checks if a graph has cycle.
 
 WHITE: Not visted
 GREY: Visited
